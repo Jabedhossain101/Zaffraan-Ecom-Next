@@ -16,29 +16,6 @@ This repo is **frontend only** – contributors can improve the design, add new 
 
 ---
 
-## Getting Started
-
-1. Clone the repo
-
-    ```bash
-    git clone https://github.com/GreatStackDev/QuickCart.git
-    cd QuickCart
-    ```
-
-2. Install dependencies
-
-    ```bash
-    npm install
-    ```
-
-3. Run locally
-
-    ```bash
-    npm run dev
-    ```
-
----
-
 ## Contributing
 
 We welcome all kinds of contributions! You can:
