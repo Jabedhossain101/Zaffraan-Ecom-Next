@@ -1,4 +1,4 @@
-# QuickCart - A simple eCommerce website
+# Zaffraan - A simple eCommerce website
 
 QuickCart is an open-source **Next.js eCommerce frontend** project.  
 It provides a modern, fast and customizable shopping UI.  
@@ -33,14 +33,3 @@ We welcome all kinds of contributions! You can:
 
 Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Contributors
-
-Thanks to everyone who contributes to **QuickCart**!
